@@ -1,0 +1,98 @@
+Species,Population_Count,Migrating,Avg_Temp_C,Rainfall_mm,Wildfire_Incidents,Vegetation_Loss_%,Health_Index
+Bengal Tiger,190,No,31.2,320,2,12.5,76.3
+Indian Elephant,540,Yes,28.4,400,1,10.2,82.1
+Indian Rhinoceros,68,No,30.0,310,0,5.0,88.7
+Asiatic Lion,120,No,35.5,100,3,22.1,61.4
+Snow Leopard,70,Yes,-5.6,250,0,2.1,91.5
+Red Panda,130,Yes,15.8,290,1,8.3,85.9
+Indian Wolf,210,Yes,29.5,150,2,18.0,70.6
+Sloth Bear,310,No,30.5,300,2,9.2,78.2
+Indian Pangolin,45,No,28.0,240,1,11.0,69.5
+Nilgiri Tahr,120,No,23.0,280,0,4.3,86.0
+Blackbuck,620,Yes,32.0,180,1,7.4,82.5
+Barasingha,85,No,27.5,350,2,14.3,73.2
+Gaur (Indian Bison),300,No,26.8,320,1,6.2,80.9
+Great Indian Bustard,20,Yes,34.1,100,4,28.0,55.3
+Indian Cobra,710,No,33.5,220,0,3.1,91.0
+Mugger Crocodile,250,No,32.7,400,1,9.9,84.4
+Olive Ridley Turtle,1200,Yes,28.5,300,0,2.3,96.8
+Indian Peafowl,900,No,31.0,250,1,6.5,89.5
+Malabar Civet,35,No,26.2,290,0,3.9,92.0
+Indian Star Tortoise,500,No,30.0,270,0,4.0,88.0
+Bonnet Macaque,740,Yes,33.3,310,1,7.2,83.7
+Golden Langur,115,No,25.1,340,1,5.6,86.4
+Lion-tailed Macaque,95,Yes,24.7,410,0,6.1,90.1
+Indian Flying Fox,670,Yes,29.0,260,1,8.4,84.9
+Rusty-spotted Cat,130,No,30.2,280,0,3.2,90.7
+Indian Leopard,410,Yes,28.6,240,2,13.0,75.0
+Dhole (Wild Dog),185,No,27.8,300,1,9.1,79.3
+Sambar Deer,520,Yes,30.4,350,0,4.8,88.2
+Hog Deer,140,Yes,26.7,360,1,5.3,87.5
+Indian Boar,390,No,32.1,290,2,11.8,76.7
+Wild Water Buffalo,90,No,29.9,330,0,6.7,84.1
+Indian Gazelle,250,Yes,33.6,200,2,12.9,78.8
+Himalayan Tahr,60,Yes,10.5,290,0,3.5,93.3
+Indian Hare,890,Yes,34.2,260,1,7.7,85.0
+Pangolin,35,No,28.5,210,0,5.2,89.3
+Desert Fox,100,Yes,36.0,80,2,20.4,64.7
+Fishing Cat,75,No,29.2,380,1,6.9,82.0
+Indian Chameleon,420,No,32.8,310,0,4.4,89.9
+Indian Scorpion,510,No,33.5,200,0,2.7,92.2
+Blue Bull (Nilgai),340,Yes,31.7,250,1,6.6,85.1
+Jungle Cat,390,Yes,30.6,280,1,9.0,81.3
+Civet Cat,170,No,28.3,330,0,5.5,86.7
+Wild Ass,65,Yes,36.5,120,3,25.3,59.9
+Himalayan Monal,160,Yes,11.2,300,0,3.8,94.2
+Indian Mongoose,480,No,33.0,270,1,6.0,84.5
+Indian Porcupine,360,No,30.1,310,1,5.3,87.3
+Indian Cuckoo,700,Yes,27.0,350,0,3.1,91.1
+Indian Hornbill,150,Yes,29.3,380,0,2.8,93.0
+Clouded Leopard,610,Yes,24.1,1520,2,6.3,0.84
+Sloth Bear,280,No,27.8,1030,1,8.2,0.77
+Pangolin,350,Yes,29.0,940,0,5.6,0.89
+Jungle Cat,720,No,25.5,1110,1,7.1,0.83
+Indian Cobra,1300,Yes,31.2,890,3,9.4,0.76
+Striped Hyena,180,No,26.4,1020,2,10.1,0.72
+Smooth-coated Otter,410,Yes,23.9,1620,1,6.5,0.88
+Barasingha,220,Yes,27.3,1340,1,5.8,0.85
+Blackbuck,560,Yes,28.7,870,0,7.3,0.91
+Golden Langur,170,No,24.5,1780,2,6.7,0.79
+Malabar Civet,90,No,25.8,1540,1,4.9,0.86
+Hoolock Gibbon,140,Yes,26.1,1680,1,5.2,0.82
+Indian Star Tortoise,780,No,32.1,710,0,9.1,0.88
+Fishing Cat,200,Yes,25.6,1760,2,6.8,0.81
+Leopard Cat,340,No,24.9,1620,1,7.4,0.85
+Nilgiri Tahr,300,Yes,21.7,1980,1,5.0,0.91
+Brown Palm Civet,110,No,23.4,1580,0,4.4,0.87
+Mouse Deer,600,Yes,27.5,1290,1,6.6,0.90
+Indian Grey Mongoose,870,No,30.2,910,1,7.9,0.82
+Indian Pangolin,290,Yes,28.0,980,0,5.1,0.86
+Rusty-spotted Cat,130,No,27.2,990,1,6.2,0.80
+Black-necked Crane,90,Yes,18.4,850,0,4.3,0.94
+Indian Desert Fox,240,Yes,33.1,450,2,8.7,0.75
+Red-headed Vulture,100,No,30.0,1120,1,6.9,0.78
+Indian Peafowl,1400,No,31.0,980,0,6.1,0.89
+Rock Python,230,Yes,30.5,1040,1,5.3,0.82
+Monitor Lizard,350,No,32.0,760,2,7.6,0.77
+Indian Cuckoo,1200,Yes,28.2,1230,0,6.4,0.92
+Painted Stork,500,Yes,27.7,1430,1,7.5,0.84
+Sarus Crane,190,Yes,26.0,1500,0,4.8,0.90
+Indian Bustard,70,No,34.0,420,2,11.2,0.69
+Jungle Bush Quail,680,No,29.3,1020,1,5.5,0.86
+King Cobra,160,Yes,28.9,1380,0,6.3,0.88
+Bengal Monitor,410,No,31.6,780,1,7.7,0.80
+Indian Eagle Owl,290,No,27.1,950,0,5.2,0.85
+Indian Boar,560,Yes,30.7,1020,1,7.3,0.79
+Sambar Deer,370,Yes,26.5,1320,2,8.5,0.81
+Hog Deer,310,Yes,27.9,1400,0,6.0,0.89
+Indian Palm Squirrel,900,No,31.3,860,0,4.9,0.91
+Common Myna,2100,No,30.8,960,1,5.8,0.88
+Spotted Dove,1700,Yes,29.0,1150,0,5.7,0.90
+House Crow,2500,No,31.5,930,0,6.2,0.87
+Grey Hornbill,300,Yes,28.4,1240,1,6.6,0.83
+Black Drongo,800,Yes,29.8,1080,1,6.3,0.85
+Indian Robin,1600,No,30.9,890,0,4.7,0.92
+Rufous Treepie,950,No,29.2,980,1,5.9,0.89
+Brahminy Kite,370,Yes,27.5,1250,0,4.5,0.87
+Crested Serpent Eagle,190,Yes,25.6,1370,0,4.2,0.91
+Malabar Whistling Thrush,160,No,23.8,1560,1,3.8,0.89
